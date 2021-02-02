@@ -4,7 +4,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+h2 {
+    text-align: center;
+}
 html {
     font-size: 10px;
     font-family: 'Montserrat', sans-serif;
